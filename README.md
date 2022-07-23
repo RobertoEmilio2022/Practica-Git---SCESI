@@ -8,4 +8,6 @@ Las caracteristicas o funcionalidades son las siguientes:
 	-Inicio de sesión para obtener beneficios que este conlleva (notificar,...).
 	-Comentar.
 	-Entre otros.
+##Novedades del parche:
+solucionamos errores referentes al inicio de sesión al sitio web.
 
